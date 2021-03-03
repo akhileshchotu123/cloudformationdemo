@@ -10,7 +10,7 @@
             "Value": {
                 "Ref": "S3Bucket"
             },
-            "Description": "sample Amazon S3 bucket."
+            "Description": "This is my sample Amazon S3 bucket."
         }
     }
 }
